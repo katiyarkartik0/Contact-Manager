@@ -1,0 +1,10 @@
+.search-box {
+  display: grid;
+  justify-content: center;
+  margin: auto;
+}
+.search {
+  background-color: black;
+  padding: 15px;
+
+}

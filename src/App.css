@@ -1,0 +1,15 @@
+.displaySection {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.formArea {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.form-control {
+  width: 500px;
+  height: 30px;
+}
